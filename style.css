@@ -1,0 +1,17 @@
+.body{
+    
+}
+
+.container {
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card{
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 2px 2px 2px 1px black;
+    overflow: hidden;
+}
